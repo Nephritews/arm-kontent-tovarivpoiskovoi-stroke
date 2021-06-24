@@ -33,7 +33,7 @@
 * Сгенери́руйте код (код генерируется на основе названия).
 ![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
 * Введите свойства.
-![25](https://user-images.githubusercontent.com/85296765/123256607-36bdee80-d502-11eb-9ce5-ba385f6c2c63.png)
+
 * Нажмите сохранить.
 ![25](https://user-images.githubusercontent.com/85296765/123256949-97e5c200-d502-11eb-8b51-1c361be8d3b2.png)
 # Созданные свойства (образец).
