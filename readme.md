@@ -32,7 +32,7 @@
 * Название
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
 * Сгенерировать код (код генерируется на основе названия).
-![орандж5](https://user-images.githubusercontent.com/85296765/120999279-9cd01500-c791-11eb-8618-d07a8ee9d3df.png)
+![кот](https://user-images.githubusercontent.com/85296765/123249054-a54a7e80-d4f9-11eb-9608-2bfdab9d9daa.png)
 * Свойства.
 ![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
 * Нажмите сохранить.
