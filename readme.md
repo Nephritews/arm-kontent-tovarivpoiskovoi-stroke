@@ -26,22 +26,19 @@
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
 * Нажмите на новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254436-b5fdf300-d4ff-11eb-9649-105aa5467260.png)
-* Откроется окно настройки и свойства.
+* Откроется окно с новым элементом, настройками и свойством.
 ![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
 * Введите название.
-![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
+![23](https://user-images.githubusercontent.com/85296765/123256170-b8f9e300-d501-11eb-898d-12978012dd13.png)
 * Сгенерировайте код (код генерируется на основе названия).
-![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
-
-* Свойства.
-![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
+![24](https://user-images.githubusercontent.com/85296765/123256193-be572d80-d501-11eb-8d14-14f084c4b861.png)
+* Введиите свойства.
+![24](https://user-images.githubusercontent.com/85296765/123256206-c3b47800-d501-11eb-9013-caf1cc59151c.png)
 * Нажмите сохранить.
 ![сохра](https://user-images.githubusercontent.com/85296765/123246869-53a0f480-d4f7-11eb-89f2-c1db59ac3509.png)
-
 # Созданные свойства (образец).
 * Вкладка настройка.
 ![настройки готовая](https://user-images.githubusercontent.com/85296765/123233011-c22b8580-d4ea-11eb-88df-785c6f4b6bad.png)
-
 * Активность для промышленного и тестового сервиса.
 Активность для элементов, те же поля есть для каталогов. При создании элемента или каталога их нет, они будут видны если открыть элемент или каталог после создания, по умолчанию они создадутся неактивными - с пустыми полями. Используются, чтобы указать их активность для пром или тест сервера и даты их активность ограничивающую.
 ![активности23](https://user-images.githubusercontent.com/85296765/123226178-75dd4700-d4e4-11eb-92c9-4f75519609ac.png)
