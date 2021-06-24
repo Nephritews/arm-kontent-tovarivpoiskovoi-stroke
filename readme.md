@@ -49,12 +49,10 @@
 ![свойства](https://user-images.githubusercontent.com/85296765/123233253-f4d57e00-d4ea-11eb-9d8c-83ccb6d3a710.png)
 
 # Обновление данных элементов.
-
 * При изменение каталогов элементов появляется иконка, указывающая о изменение.
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/85296765/122168014-cc1b0c00-ce8c-11eb-8f92-3c94dca705b5.png)
+![23](https://user-images.githubusercontent.com/85296765/123264193-d7b0a780-d50a-11eb-9f03-e951506b5f3c.png)
 * При переходе на новую страницу обновления не будут сохранены.
 ![обнова 23](https://user-images.githubusercontent.com/85296765/122167531-2cf61480-ce8c-11eb-8edf-f24b994207c9.png)
-
 # Удаление данных.
 * Удаление элементов. Нажмите на корзину.
 ![254](https://user-images.githubusercontent.com/85296765/123245853-459ea400-d4f6-11eb-9847-ae8e4052e022.png)
