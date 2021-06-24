@@ -24,10 +24,10 @@
 # Создание элемента.
 * Оранжевая кнопка с плюсом, добавить новый раздел.
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
-* Новый элемент.
+* Нажмите на новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254436-b5fdf300-d4ff-11eb-9649-105aa5467260.png)
 * Настройки.
-![оранд3](https://user-images.githubusercontent.com/85296765/120998981-46fb6d00-c791-11eb-9734-ed9e2b066895.png)
+![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
 * Название.
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
 * Сгенерировать код (код генерируется на основе названия).
