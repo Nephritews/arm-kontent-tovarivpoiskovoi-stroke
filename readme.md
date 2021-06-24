@@ -52,9 +52,8 @@
 ![обнова 23](https://user-images.githubusercontent.com/85296765/122167531-2cf61480-ce8c-11eb-8edf-f24b994207c9.png)
 
 # Удаление данных.
-* Удаление инфоблока. Во вкладке элементы обязательно удалить элемент и только после этого переходить к удалению инфоблока (стоит защита).
-![удаление](https://user-images.githubusercontent.com/85296765/123229893-c4d8ab80-d4e7-11eb-857d-190d2e84c398.png)
-![удаление инф](https://user-images.githubusercontent.com/85296765/123229773-a83c7380-d4e7-11eb-8e7c-01aea3bac00d.png)
+* Удаление элементов. 
+![254](https://user-images.githubusercontent.com/85296765/123245853-459ea400-d4f6-11eb-9847-ae8e4052e022.png)
 
 
 
