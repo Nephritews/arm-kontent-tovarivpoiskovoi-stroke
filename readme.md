@@ -36,6 +36,10 @@
 # Созданные свойства
 * Вкладка настройка.
 ![настройки готовая](https://user-images.githubusercontent.com/85296765/123222720-437e1a80-d4e1-11eb-91e4-6f5daf46a5d6.png)
+
+![активности23](https://user-images.githubusercontent.com/85296765/123226178-75dd4700-d4e4-11eb-92c9-4f75519609ac.png)
+
+
 * Вкладка свойства.
 ![товары в поиской строке элементы](https://user-images.githubusercontent.com/85296765/123222997-8e982d80-d4e1-11eb-9188-0b6ede16cbdf.png)
 
