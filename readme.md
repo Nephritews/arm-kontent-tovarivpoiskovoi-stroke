@@ -59,6 +59,7 @@
 * Удаление элементов. Нажмите на корзину.
 ![254](https://user-images.githubusercontent.com/85296765/123245853-459ea400-d4f6-11eb-9847-ae8e4052e022.png)
 * Подтвердите действия нажмите кнопку ок.
+
 ![ок](https://user-images.githubusercontent.com/85296765/123262825-5dcbee80-d509-11eb-8771-c29f2ab5bc3a.png)
 
 
