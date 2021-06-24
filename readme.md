@@ -26,12 +26,13 @@
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
 * Нажмите на новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254436-b5fdf300-d4ff-11eb-9649-105aa5467260.png)
-* Настройки.
+* Откроется окно настройки и свойства.
 ![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
-* Название.
+* Введите название.
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
-* Сгенерировать код (код генерируется на основе названия).
-![сохра](https://user-images.githubusercontent.com/85296765/123250147-cfe90700-d4fa-11eb-8826-0bdd7aeb86c2.png)
+* Сгенерировайте код (код генерируется на основе названия).
+![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
+
 * Свойства.
 ![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
 * Нажмите сохранить.
