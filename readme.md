@@ -30,7 +30,7 @@
 ![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
 * Введите название.
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
-* Сгенери́руйте (код генерируется на основе названия).
+* Сгенери́руйте код (код генерируется на основе названия).
 ![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
 * Введите свойства.
 ![25](https://user-images.githubusercontent.com/85296765/123256607-36bdee80-d502-11eb-9ce5-ba385f6c2c63.png)
