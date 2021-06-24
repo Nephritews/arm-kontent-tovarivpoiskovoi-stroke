@@ -32,11 +32,10 @@
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
 * Сгенери́руйте (код генерируется на основе названия).
 ![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
-* Введиите свойства.
+* Введите свойства.
 ![25](https://user-images.githubusercontent.com/85296765/123256607-36bdee80-d502-11eb-9ce5-ba385f6c2c63.png)
 * Нажмите сохранить.
-![сохра](https://user-images.githubusercontent.com/85296765/123246869-53a0f480-d4f7-11eb-89f2-c1db59ac3509.png)
-
+![25](https://user-images.githubusercontent.com/85296765/123256949-97e5c200-d502-11eb-8b51-1c361be8d3b2.png)
 # Созданные свойства (образец).
 * Вкладка настройка.
 ![настройки готовая](https://user-images.githubusercontent.com/85296765/123233011-c22b8580-d4ea-11eb-88df-785c6f4b6bad.png)
