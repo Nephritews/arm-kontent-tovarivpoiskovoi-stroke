@@ -28,7 +28,7 @@
 ![оранд2](https://user-images.githubusercontent.com/85296765/120998822-1ca9af80-c791-11eb-9bd6-b87ec5fcbf90.png)
 * Настройки.
 ![оранд3](https://user-images.githubusercontent.com/85296765/120998981-46fb6d00-c791-11eb-9734-ed9e2b066895.png)
-* Название
+* Название.
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
 * Сгенерировать код (код генерируется на основе названия).
 ![сохра](https://user-images.githubusercontent.com/85296765/123250147-cfe90700-d4fa-11eb-8826-0bdd7aeb86c2.png)
