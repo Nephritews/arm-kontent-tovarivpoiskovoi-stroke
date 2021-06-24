@@ -23,9 +23,9 @@
 ![товары в поиской строке элементы](https://user-images.githubusercontent.com/85296765/123217430-9ead0e80-d4db-11eb-9e60-989ef831cbc7.png)
 # Создание элемента.
 * Оранжевая кнопка с плюсом, добавить новый раздел.
-![оранд](https://user-images.githubusercontent.com/85296765/120998556-de13f500-c790-11eb-8f03-86c343d5eaf3.png)
+![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
 * Новый элемент.
-![оранд2](https://user-images.githubusercontent.com/85296765/120998822-1ca9af80-c791-11eb-9bd6-b87ec5fcbf90.png)
+![23](https://user-images.githubusercontent.com/85296765/123254436-b5fdf300-d4ff-11eb-9649-105aa5467260.png)
 * Настройки.
 ![оранд3](https://user-images.githubusercontent.com/85296765/120998981-46fb6d00-c791-11eb-9734-ed9e2b066895.png)
 * Название.
