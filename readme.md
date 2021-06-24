@@ -6,7 +6,7 @@
 
 ![товары в поисковой строке](https://user-images.githubusercontent.com/85296765/123216066-33af0800-d4da-11eb-84cd-01a08e2d9fa3.png)
 * Настройка > Ввод названия.
-![1](https://user-images.githubusercontent.com/85296765/123248095-9911f180-d4f8-11eb-8ffb-754b4799a040.png)
+![1](https://user-images.githubusercontent.com/85296765/123248453-002fa600-d4f9-11eb-9cb5-696611787a85.png)
 *  Настройка > Сгенерировать > Код > Код генерируется на основе названия.
 ![2](https://user-images.githubusercontent.com/85296765/123248136-a3cc8680-d4f8-11eb-88d3-1a651189bd54.png)
 * Настройка > Родительский контроль > При указании каталога дочерним он будет использовать свойства каталога.  
