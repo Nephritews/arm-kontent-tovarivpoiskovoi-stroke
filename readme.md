@@ -37,7 +37,8 @@
 
 * Нажмите сохранить.
 ![25](https://user-images.githubusercontent.com/85296765/123256949-97e5c200-d502-11eb-8b51-1c361be8d3b2.png)
-# Созданные свойства (образец).
+# Созданные свойства.
+### Образец
 * Вкладка настройка.
 ![настройки готовая](https://user-images.githubusercontent.com/85296765/123233011-c22b8580-d4ea-11eb-88df-785c6f4b6bad.png)
 
@@ -57,6 +58,8 @@
 # Удаление данных.
 * Удаление элементов. Нажмите на корзину и подтвердите действия.
 ![254](https://user-images.githubusercontent.com/85296765/123245853-459ea400-d4f6-11eb-9847-ae8e4052e022.png)
+![ок](https://user-images.githubusercontent.com/85296765/123262825-5dcbee80-d509-11eb-8771-c29f2ab5bc3a.png)
+
 
 
 
