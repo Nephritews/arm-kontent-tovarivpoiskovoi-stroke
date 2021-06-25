@@ -32,7 +32,7 @@
 ![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
 * Сгенери́руйте код (код генерируется на основе названия) (обязательны для заполнения).
 ![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
-* Введите свойства.
+* Введите свойства. Имеется два типа свойст приорететность и ссылка.
 ![25](https://user-images.githubusercontent.com/85296765/123259819-f8c2c980-d505-11eb-9282-0db0943125b8.png)
 * Нажмите сохранить.
 ![25](https://user-images.githubusercontent.com/85296765/123256949-97e5c200-d502-11eb-8b51-1c361be8d3b2.png)
@@ -43,11 +43,12 @@
 ![23](https://user-images.githubusercontent.com/85296765/123264193-d7b0a780-d50a-11eb-9f03-e951506b5f3c.png)
 * При переходе на новую страницу обновления не будут сохранены.
 ![обнова 23](https://user-images.githubusercontent.com/85296765/122167531-2cf61480-ce8c-11eb-8edf-f24b994207c9.png)
+Если вы хотите сохранить элемент нажмите кнопку сохранить.
+![солх](https://user-images.githubusercontent.com/85296765/123393647-57904d80-d5af-11eb-91a9-2462402ff022.png)
 # Удаление данных.
 * При удаление элементов нажмите на икону корзину. В открывшемся окне нажмите кнопку ок.
 ![254](https://user-images.githubusercontent.com/85296765/123245853-459ea400-d4f6-11eb-9847-ae8e4052e022.png)
 * Подтвердите действия на странице, нажмите кнопку ок.
-
 ![ок](https://user-images.githubusercontent.com/85296765/123262825-5dcbee80-d509-11eb-8771-c29f2ab5bc3a.png)
 
 
