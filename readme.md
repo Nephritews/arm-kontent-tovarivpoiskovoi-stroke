@@ -20,7 +20,7 @@
 * Поиск элемента. Навигация по списку элементов.
 ![23](https://user-images.githubusercontent.com/85296765/123264745-61607500-d50b-11eb-8467-dc03ad0adfd6.png)
 * Для поиска введите названия элемента в строку поиска (например, терафлекс).
-![567](https://user-images.githubusercontent.com/85296765/123391849-7b529400-d5ad-11eb-8e56-c7b562eec7e0.png)
+![Безымянный564](https://user-images.githubusercontent.com/85296765/123417394-c5953e80-d5c8-11eb-9a35-4c26525c577c.png)
 # Создание элемента.
 * Оранжевая кнопка с плюсом, добавить новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
