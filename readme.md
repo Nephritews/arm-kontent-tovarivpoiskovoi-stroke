@@ -19,6 +19,9 @@
 ![14](https://user-images.githubusercontent.com/85296765/123380732-df229000-d5a0-11eb-9984-d53166f61205.png)
 * Поиск элемента
 ![23](https://user-images.githubusercontent.com/85296765/123264745-61607500-d50b-11eb-8467-dc03ad0adfd6.png)
+Для поиска введите названия элемента в строку 
+![567](https://user-images.githubusercontent.com/85296765/123391046-a5578680-d5ac-11eb-9d2c-dff8d51f8cfa.png)
+
 # Создание элемента.
 * Оранжевая кнопка с плюсом, добавить новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
