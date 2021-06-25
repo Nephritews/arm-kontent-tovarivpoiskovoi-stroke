@@ -32,7 +32,7 @@
 ![234](https://user-images.githubusercontent.com/85296765/123395979-d9817600-d5b1-11eb-93a9-13705bfe8eac.png)
 * Сгенерируйте код (код генерируется на основе названия) (обязательны для заполнения).
 ![23](https://user-images.githubusercontent.com/85296765/123255028-6bc94180-d500-11eb-8c7f-00b12c3cf1fd.png)
-* Введите свойства. Имеется два типа свойств: приоритетность и ссылка.
+* Введите свойства. Имеется два типа свойств: приоритет(PRIORITY) и Ссылка(LINK).
 ![25](https://user-images.githubusercontent.com/85296765/123259819-f8c2c980-d505-11eb-9282-0db0943125b8.png)
 * Нажмите сохранить.
 ![25](https://user-images.githubusercontent.com/85296765/123256949-97e5c200-d502-11eb-8b51-1c361be8d3b2.png)
