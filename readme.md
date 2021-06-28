@@ -25,7 +25,7 @@
 * Оранжевая кнопка с плюсом, добавить новый элемент.
 ![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
 * При нажатии на новый элемент откроется окно с новым элементом.
-![23](https://user-images.githubusercontent.com/85296765/123254436-b5fdf300-d4ff-11eb-9649-105aa5467260.png)
+![27](https://user-images.githubusercontent.com/85296765/123595178-a7665300-d801-11eb-9d22-a216f634b44c.png)
 * Окно с новым элементом, настройками и свойством.
 ![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
 * Введите название (обязательны для заполнения).
