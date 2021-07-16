@@ -31,7 +31,7 @@
 * Вкладка настройка.
 ![56](https://user-images.githubusercontent.com/85296765/123396897-e5ba0300-d5b2-11eb-9a38-257eb71d784a.png)
 * Вкладка элементы.
-![Безымянный11](https://user-images.githubusercontent.com/85296765/124243053-7605c400-db2e-11eb-99f8-6e295092b7e8.png)
+![Безымянный12](https://user-images.githubusercontent.com/85296765/125931439-c99a4e44-8d96-4d83-af8b-aa0d0c9ff287.png)
 * Для того чтобы элемент или раздел отображался на сайте задайте ему временной диапазон.
 ![Безымянный11](https://user-images.githubusercontent.com/85296765/124233764-3cc85680-db24-11eb-9460-d4b59f5a910f.png)
 ![Безымянный11](https://user-images.githubusercontent.com/85296765/124234910-b280f200-db25-11eb-8bc4-17a6eef38ff1.png)
