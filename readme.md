@@ -14,9 +14,9 @@
 ![Безымянный13](https://user-images.githubusercontent.com/85296765/125908932-84728d24-68d7-4718-8197-e1f58293d109.png)
 # Создание элемента.
 * Оранжевая кнопка с плюсом, добавить новый элемент.
-![23](https://user-images.githubusercontent.com/85296765/123254268-80f1a080-d4ff-11eb-8165-7c81a081c09f.png)
+![11](https://user-images.githubusercontent.com/85296765/125916992-570fa0c0-0ac1-4fd0-abea-fed919a89537.png)
 * При нажатии на новый элемент откроется окно с новым элементом.
-![27](https://user-images.githubusercontent.com/85296765/123595178-a7665300-d801-11eb-9d22-a216f634b44c.png)
+![12](https://user-images.githubusercontent.com/85296765/125917017-3f52ef26-73d1-481e-b16c-06462245ffdf.png)
 * Окно с новым элементом, настройками и свойством.
 ![23](https://user-images.githubusercontent.com/85296765/123254746-13923f80-d500-11eb-8af9-6d6ba81731ff.png)
 * Введите название (обязательны для заполнения).
